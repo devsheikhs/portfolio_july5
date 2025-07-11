@@ -114,9 +114,19 @@ nav ul {
 
 .bn-btn2 {
   text-decoration: none;
-  color: white;
+  color: #FD6E0A;
 }
-
+.btn-gap{
+  margin-right: 30px;
+}
+.btn-bg{
+  background-color: #FFF8F3;
+  border: 1px solid #FD6E0A;
+  font-size: 20px;
+  font-weight: 700;
+  padding: 18px 35px;
+  border-radius: 5px;
+}
 /* main styles */
 main{
   max-width: 1140px;
